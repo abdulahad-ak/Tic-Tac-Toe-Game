@@ -25,7 +25,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap:1.5vmin;
+    gap:1.7vmin;
 }
 
 .box{
@@ -72,4 +72,5 @@ font-size: 8vmin;
 
 .hide{
     display: none;
+
 }
